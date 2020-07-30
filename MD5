@@ -1,0 +1,12 @@
+f96c171acfc34250b5df1d56447c150d *DESCRIPTION
+bd265fdc331a2d9930055ff264635568 *NAMESPACE
+eae4e8e8646e5068ab4af75e4c8cd4e9 *R/bbcor.R
+eaa5852f328e692b6247206b318060cc *R/cor_2_pcor.R
+26128f0a50e9ee3abe3807fa0e5849b9 *R/helpers.R
+ea6290f9ea32ea0421ff04c6178aa8f2 *R/posterior_samples.R
+ddb12a0bc248b6a154c5c92e62099567 *README.md
+638f22defc9244f63e3a23de296ffd63 *inst/REFERENCES.bib
+b2fd8e1e385c58856748a0a6094f7922 *man/bbcor.Rd
+b43a48536fa53cee6d12afb968ccbdd9 *man/cor_2_pcor.Rd
+22b3a3b27fc8db74c3e49f8991f8ee96 *man/posterior_samples.Rd
+9a854bd0b73a9d017fd896023d1bad7a *man/print.bbcor.Rd
